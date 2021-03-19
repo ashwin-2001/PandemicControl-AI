@@ -37,8 +37,9 @@ randomness = False  # After 1-2 runs
 # Exploration settings
 model_weights_save = "models/lunar1_google.h5"
 model_name_save = "models/lunar1_model.json"
-model_name_load = "models/lunar1_model(5).json"
-model_weights_load = "models/lunar1_google(5).h5"
+model_name_load = "models/lunar1_model(3).json"
+model_weights_load = "models/lunar1_google(3
+).h5"
 # load_model =  models.load_model('C:\\Users\dell-3568\PycharmProjects\Life\models\like.model',compile=True)
 #  Stats settings
 AGGREGATE_STATS_EVERY = 3  # episodes
